@@ -36,7 +36,7 @@ public class LatihanMandiriArrayList {
         for (String n : nama) {
             if (n.startsWith("A")) System.out.println(n);
         }
-        // hasil: Andi, Ayu, Adit
+        // hasil: Andi, Aldi, Arin
         
     }
 }
